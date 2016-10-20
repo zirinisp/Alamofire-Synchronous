@@ -9,7 +9,7 @@
 import Foundation
 import Alamofire
 
-extension DataRequest {
+public extension DataRequest {
     
     
     /**
